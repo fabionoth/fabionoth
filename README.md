@@ -76,8 +76,8 @@ I build secure SDLCs, automate threat mitigation, and help dev teams ship safely
 ## 🌐 Find me
 
 - 💼 LinkedIn: <a href="https://linkedin.com/in/fabionoth">linkedin.com/in/fabionoth</a>  
-- 📨 Email: your.email@domain.com  
-- 🐙 GitHub: <a href="https://github.com/YOUR_GITHUB_USERNAME">github.com/YOUR_GITHUB_USERNAME</a>
+- 📨 Email: fabio.noth [at] gmail.com
+- 🐙 GitHub: <a href="https://github.com/fabionoth">github.com/fabionoth</a>
 
 ---
 
