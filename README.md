@@ -24,9 +24,6 @@ so it appears on your profile. Replace placeholders like YOUR_GITHUB_USERNAME an
 Security engineer with 10+ years across **application security**, **penetration testing**, and **blockchain/Web3 auditing**.  
 I build secure SDLCs, automate threat mitigation, and help dev teams ship safely.
 
-- **Sr AppSec Engineer @ COFCO International** — integrating **DevSecOps** on Azure, automating **vulnerability remediation** with **logging/monitoring pipelines** and code analysis.
-- **Blockchain Security Auditor @ Hacken** — research on **Web3/DApps**, code review, vulnerability analysis.
-- Past roles include AppSec/pentesting at **Mercado Livre**, Intuition Machines, TechBiz Forense Digital, and an earlier foundation in software engineering.
 
 > “Security is not a product, but a process.” — Bruce Schneier
 
